@@ -214,4 +214,5 @@ lips_logs.log
 
 trained_models/
 .env_lips/
-evaluation_results/
+evaluation_results/*
+
